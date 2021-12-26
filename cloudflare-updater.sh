@@ -6,6 +6,8 @@ auth_method="global"                            # Set to "global" for Global API
 auth_key=""                                     # Your API Token or Global API Key
 zone_identifier=""                              # Can be found in the "Overview" tab of your domain
 record_name=()                                  # Which records should be updated
+                                                # should look like this
+                                                # record_name=("firstDomain" "secondDomain" "thirdDomain")
 ttl="3600"                                      # Set the DNS TTL (seconds)
 proxy=true                                      # Set the proxy to true or false
 discord_success_noti=false                      # Send Success notification true or false
