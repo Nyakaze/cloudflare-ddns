@@ -20,3 +20,8 @@ It can be used via crontabs. You can specify how often it should be executed.
 # │ │ │ │ │ │
 # * * * * * /bin/bash {Location of the script}
 ```
+
+# Using Discord
+You can use Discord webhooks to get notified when something happens.
+![Discord_Webhook](https://user-images.githubusercontent.com/31509082/147412335-6d3cd555-dfc8-45ba-a7aa-3cd04bb560f6.png)
+![Discord_Webhook_2](https://user-images.githubusercontent.com/31509082/147412344-7bea872d-3ad5-4c87-a622-076cafa391b2.png)
